@@ -18,3 +18,12 @@ C:\Users\OFF-MARCO\Desktop\Repositorio\EjemploLogin\EjemploLogin\obj\Debug\Ejemp
 C:\Users\OFF-MARCO\Desktop\Repositorio\EjemploLogin\EjemploLogin\obj\Debug\EjemploLogin.csproj.CoreCompileInputs.cache
 C:\Users\OFF-MARCO\Desktop\Repositorio\EjemploLogin\EjemploLogin\obj\Debug\EjemploLogin.exe
 C:\Users\OFF-MARCO\Desktop\Repositorio\EjemploLogin\EjemploLogin\obj\Debug\EjemploLogin.pdb
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.csproj.AssemblyReference.cache
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.FormConversor.resources
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.Login.resources
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.FormPedidos.resources
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.Properties.Resources.resources
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.csproj.GenerateResource.cache
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.csproj.CoreCompileInputs.cache
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.exe
+C:\Users\oecs1\source\repos\LoginPrueba\LoginPrueba\obj\Debug\EjemploLogin.pdb

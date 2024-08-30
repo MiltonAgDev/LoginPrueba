@@ -26,7 +26,7 @@ namespace EjemploLogin
             if (user == "USUARIO" && pass
             == "123")
             {
-                MessageBox.Show("Bienvenido");
+                MessageBox.Show("Bienvenido!");
                 this.Hide();
                 FormPedidos fp = new
                 FormPedidos();
